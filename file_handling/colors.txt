@@ -1,0 +1,10 @@
+RGB COLORS
+Red
+Green
+Blue
+
+CMYK COLORS
+Cyan
+Magenta
+Yellow
+Black
